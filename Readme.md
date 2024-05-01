@@ -30,16 +30,6 @@ The program's primary functionality is to toggle the state of the NIC, enabling 
 
 Contributions are welcome! Whether it's code improvements, bug fixes, or feature suggestions, feel free to submit a pull request or raise an issue.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or suggestions, feel free to reach out:
-
-- Email: [dvsathwikreddy](jsreddy558@gmail.com)
-
 ---
 
 Let's empower users with greater control over their network interfaces! 🌐✨
